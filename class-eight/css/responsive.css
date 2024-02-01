@@ -1,0 +1,81 @@
+@media (max-width:575px){
+    .menu-bg ul li{
+        padding: 10px 10px;
+    }
+    .menu-bg ul li a{
+        color: black;
+    }
+    .menu-bg button{
+        border: 4px solid red;
+    }
+    .menu-bg .navbar-toggler i{
+        color: red;
+        font-size: 30px;
+    }
+    .menu_text h6{
+        font-size: 12px;
+        font-weight: 400;
+        margin-top: 20px;
+    }
+    .menu_men ul li{
+        font-size: 10px;
+        margin-top: -20px;
+        padding-left: 10px;
+    }
+    .menu_men ul li a{
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+    .menu-bg ul li{
+        padding: 10px 10px;
+    }
+    .menu-bg ul li a{
+        color: black;
+    }
+    .menu-bg button{
+        border: 4px solid red;
+    }
+    .menu-bg .navbar-toggler i{
+        color: red;
+        font-size: 30px;
+    }
+    .menu_text h6{
+        font-size: 14px;
+        font-weight: 500;
+        margin-top: 17px;
+    }
+    .menu_men ul li{
+        font-size: 10px;
+        margin-top: -17px;
+    }
+    .menu_men ul li a{
+        font-size: 12px;
+        font-weight: 500;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .menu-bg ul li{
+        padding: 10px 10px;
+    }
+    .menu-bg ul li a{
+        color: black;
+    }
+    .menu-bg button{
+        border: 4px solid red;
+    }
+    .menu-bg .navbar-toggler i{
+        color: red;
+        font-size: 30px;
+    }
+    .menu_text h6{
+        margin-top: 20px;
+    }
+    .menu_men ul li{
+        margin-top: -20px;
+    }
+}
+@media (min-width:992) and (max-width1199px){
+
+}
